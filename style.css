@@ -1,0 +1,13 @@
+body{
+    background:url("https://images.pexels.com/photos/67636/rose-blue-flower-rose-blooms-67636.jpeg?auto=compress&cs=tinysrgb&h=350");
+  
+}
+h1{
+    color:whitesmoke;
+}
+p{
+    color: teal;
+}
+table td:nth-child(2n+0){
+background: lightsalmon;
+}
